@@ -1,7 +1,6 @@
 {
     "name": "elhadji/report-maker",
     "type": "symfony-bundle",
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "vendor\\Module\\ReportMaker\\": "src/"
@@ -14,10 +13,10 @@
         }
     ],
     "require": {
-        "phpoffice/phpword": "dev-develop"
+        "phpoffice/phpword": "dev-master"
     },
     "extra": {
-        "branch-version": "master"
+        "branch-version": "1.0-dev"
     },
     "require-dev": {
         "symfony/dependency-injection": "^6.4",
