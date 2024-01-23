@@ -16,9 +16,8 @@
         "phpoffice/phpword": "dev-develop"
     },
     "extra": {
-        "branch-version": "1.0-dev"
-    }
-    ,
+        "branch-version": "master"
+    },
     "require-dev": {
         "symfony/dependency-injection": "^7.0",
         "symfony/config": "^7.0",
