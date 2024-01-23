@@ -1,6 +1,7 @@
 {
     "name": "elhadji/report-maker",
     "type": "symfony-bundle",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "vendor\\Module\\ReportMaker\\": "src/"
